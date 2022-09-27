@@ -1,5 +1,6 @@
-![Language](https://img.shields.io/badge/Language-Python_3-important)&nbsp;
-![Update](https://img.shields.io/badge/Last%20Update-September%2009,%202022-brightgreen)&nbsp;
+![Language](https://img.shields.io/badge/Python-v3.10-important)&nbsp;
+![Language](https://img.shields.io/badge/C++-v11-important)&nbsp;
+![Update](https://img.shields.io/badge/Last%20Update-September%2028,%202022-brightgreen)&nbsp;
 
 ## Contents
 
